@@ -1,0 +1,22 @@
+.container {
+  color: white;
+  margin: 0 auto;
+}
+
+.container > h3{
+  color: lightgray;
+}
+
+.container > p {
+  color: lightgray;
+}
+
+.global {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-container {
+  text-align: center;
+
+}

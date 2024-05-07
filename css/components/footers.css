@@ -1,0 +1,11 @@
+.footer {
+  background-color: #2C2B2B;
+  padding-top: 100px;
+  padding-bottom: 20px;
+}
+
+.socials a {
+  display: inline;
+  justify-content: center;
+  color: gold;
+}
